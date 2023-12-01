@@ -1,0 +1,9 @@
+GET http://localhost:8080/api/products
+###
+GET http://localhost:8080/api/products/fsdfsdfsfs
+###
+post http://localhost:8080/api/products
+###
+put http://localhost:8080/api/products/cgcgcgcg
+###
+delete http://localhost:8080/api/products/xwertuvc
